@@ -38,6 +38,13 @@ body {
     margin-bottom: 16px;
 }
 
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
 /* Figure */
 
 figure>img {
@@ -49,3 +56,187 @@ img {
   height:auto;
   width: auto;
 }
+
+
+/*Added for social Nav */
+.transition() {
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;  
+}
+
+
+/*********************************************************
+  = TYPOGRAPHY
+*********************************************************/
+/*
+html {
+ font-size: 62.5%; 
+}
+
+body {
+ font: 12px 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif; font-size: 1.2rem;
+  background: #eee;
+}*/
+
+
+/*********************************************************
+  = LAYOUT
+*********************************************************/
+
+/** {
+  -webit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+}*/
+
+
+/*********************************************************
+    = SOCIAL
+*********************************************************/
+
+/* SOCIAL - Nav */
+.social-nav,
+.social-nav .item {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social-nav {
+  position: relative;
+  margin: -10px auto;
+  padding: 0 10px;
+  text-align: right;
+}
+
+  /* SOCIAL - Nav - Item */
+  .social-nav .item {
+    display: inline-block;
+  }
+
+  .social-nav .item + .item {
+    padding-left: 10px;
+  }
+
+    /* SOCIAL - Nav - Link */
+    .social-nav a:link,
+    .social-nav a:visited {
+      display: inline-block;
+      width: 40px; height: 40px;
+      text-align: center;
+      text-decoration: none;
+    }
+    
+      /* SOCIAL - Nav - Icon */
+      .social-nav .fa {
+        margin-bottom: 0px;
+        width: inherit; height: inherit;
+        font-size: 40px; font-size: 1.5rem;
+        line-height: 40px;
+        background: #ececec;
+        color: #ccc;
+        color: rgba(192,192,192, .8);
+        border-radius: 40px;
+        box-shadow: 1px 1px 12px rgba(104,104,104, .4) inset;
+        text-shadow: 1px 4px 6px #eee,
+                     0 0 0 #111,
+                     1px 4px 6px #eee;
+        /*.transition();*/
+      }
+
+      .social-nav .item:hover .fa,
+      .social-nav .item:focus .fa,
+      .social-nav a:hover .fa,
+      .social-nav a:focus .fa,
+      .social-nav a:active .fa {
+        color: #fff;
+        opacity: 1;
+        box-shadow: none;
+        text-shadow: none;
+      }
+
+      /* SOCIAL - Nav - Text */
+      .social-nav .fa + * {
+        position: relative;
+        top: 0px;
+        font: 700 8px 'Cabin', sans-serif; font-size: 1rem;
+        white-space: nowrap;
+        opacity: 0;
+        .transition();
+      }
+
+      .social-nav a:hover .fa + *,
+      .social-nav a:focus .fa + *,
+      .social-nav a:active .fa + * {
+        top: 0;
+        opacity: 1;
+      }
+
+    /* SOCIAL - Nav - Facebook */
+    .social-nav .item:hover a .fa-facebook,
+    .social-nav .item:focus a .fa-facebook,
+    .social-nav a:hover .fa-facebook,
+    .social-nav a:focus .fa-facebook,
+    .social-nav a:active .fa-facebook {
+      background: #3b5998;
+    }
+
+    .social-nav a .fa-facebook + * {
+      color: #3b5998;
+    }
+
+    /* SOCIAL - Nav - Twitter */
+    .social-nav .item:hover a .fa-twitter,
+    .social-nav .item:focus a .fa-twitter,
+    .social-nav a:hover .fa-twitter,
+    .social-nav a:focus .fa-twitter,
+    .social-nav a:active .fa-twitter {
+      background: #0084b4;
+    }
+
+    .social-nav a .fa-twitter + * {
+      color: #0084b4;
+    }
+
+    /* SOCIAL - Nav - Youtube */
+    .social-nav .item:hover a .fa-youtube,
+    .social-nav .item:focus a .fa-youtube,
+    .social-nav a:hover .fa-youtube,
+    .social-nav a:focus .fa-youtube,
+    .social-nav a:active .fa-youtube {
+      background: #d02525;
+    }
+
+    .social-nav a .fa-youtube + * {
+      color: #d02525;
+    }
+
+    /* SOCIAL - Nav - Instagram */
+    .social-nav .item:hover a .fa-instagram,
+    .social-nav .item:focus a .fa-instagram,
+    .social-nav a:hover .fa-instagram,
+    .social-nav a:focus .fa-instagram,
+    .social-nav a:active .fa-instagram {
+      background: #8845a5;
+    }
+
+    .social-nav a .fa-instagram + * {
+      color: #8845a5;
+    }
+
+    /* SOCIAL - Nav - LinkedIn */
+    .social-nav .item:hover a .fa-linkedin,
+    .social-nav .item:focus a .fa-linkedin,
+    .social-nav a:hover .fa-linkedin,
+    .social-nav a:focus .fa-linkedin,
+    .social-nav a:active .fa-linkedin {
+      background: #0e76a8;
+    }
+
+    .social-nav a .fa-linkedin + * {
+      color: #0e76a8;
+    }
+
+
