@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Parag Kar</title>
-    <link>https://example.com/</link>
+    <link>https://paragkar.github.io/</link>
     <description>Recent content in Home on Parag Kar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2018 Parag Kar</copyright>
     <lastBuildDate>Fri, 13 Jun 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paragkar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://example.com/about/</link>
+      <link>https://paragkar.github.io/about/</link>
       <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://paragkar.github.io/about/</guid>
       <description>Welcome to my site wherein I have attempted to aggregate information about spectrum, auctions and other related issues impacting the Indian Telecom Sector. Since most of the information is fragmented, I thought it will be useful if these are placed in a structured form to enable easy access. While doing so, I have made every attempt at maintaining accuracy, but inadvertent errors cannot be ruled out. In case you notice any, please provide feedback ( @Parag_Kar ) so that the same may be corrected.</description>
     </item>
     
     <item>
       <title>1800 MHz Map</title>
-      <link>https://example.com/2014/04/1800-mhz-map/</link>
+      <link>https://paragkar.github.io/2014/04/1800-mhz-map/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/1800-mhz-map/</guid>
+      <guid>https://paragkar.github.io/2014/04/1800-mhz-map/</guid>
       <description>The figure below provides the latest map of the 1800 MHz band.
 The blocks available for auction is marked with “RED” border. The quantum available in the individual circle is mentioned in the “violet” box. Each circle is shown here in two rows – the top indicating “liberalized spectrum”, and the bottom “un-liberalized spectrum”. Also, a scale (indicated as dotted blocks) has been provided above each circle for the reader to measure the quantum of spectrum assigned to every operator.</description>
     </item>
     
     <item>
       <title>2010</title>
-      <link>https://example.com/2014/04/2010/</link>
+      <link>https://paragkar.github.io/2014/04/2010/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2010/</guid>
+      <guid>https://paragkar.github.io/2014/04/2010/</guid>
       <description>The following is the snapshot of the 2010 auctions.
 Auction Prices (2100 MHz) All values are in Rs Cr/MHz.
 Auction Prices (2300 MHz) All values are in Rs Cr/MHz.
@@ -47,10 +47,10 @@ Bidding Matrix (2100 MHz) The bidding matrix for the 2100 MHz band.</descriptio
     
     <item>
       <title>2012</title>
-      <link>https://example.com/2014/04/2012/</link>
+      <link>https://paragkar.github.io/2014/04/2012/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2012/</guid>
+      <guid>https://paragkar.github.io/2014/04/2012/</guid>
       <description>The following is the snapshot of 2012 auctions.
 Auction Prices (1800 MHz) All values are in Rs Cr/MHz.
 Winner’s Tally All values are in MHz.
@@ -60,10 +60,10 @@ Winner’s Outflows All values are in Rs Cr.
     
     <item>
       <title>2013</title>
-      <link>https://example.com/2014/04/2013/</link>
+      <link>https://paragkar.github.io/2014/04/2013/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2013/</guid>
+      <guid>https://paragkar.github.io/2014/04/2013/</guid>
       <description>The following is the snapshot of 2013 auctions.
 Auction Prices (800 MHz) All values are in Rs Cr/MHz.
 Winner’s Tally All values are in MHz.
@@ -73,10 +73,10 @@ Spectrum Map (800 MHz) The following the spectrum map for the 800 MHz band. The 
     
     <item>
       <title>2014</title>
-      <link>https://example.com/2014/04/2014/</link>
+      <link>https://paragkar.github.io/2014/04/2014/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2014/</guid>
+      <guid>https://paragkar.github.io/2014/04/2014/</guid>
       <description>The following is the snapshot of 2014 auctions.
 Auction Prices (900 MHz) All values are in Rs Cr/MHz.
 Auction Prices (1800 MHz) All values are in Rs Cr/MHz.
@@ -87,10 +87,10 @@ Winner’s Outflows All values are in Rs Cr.
     
     <item>
       <title>2015</title>
-      <link>https://example.com/2014/04/2015/</link>
+      <link>https://paragkar.github.io/2014/04/2015/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2015/</guid>
+      <guid>https://paragkar.github.io/2014/04/2015/</guid>
       <description>The following is the snapshot of 2015 auctions.
 Auction Prices (800 MHz) All values are in Rs Cr/MHz.
 Auction Prices (900 MHz) All values are in Rs Cr/MHz.
@@ -103,10 +103,10 @@ Bidding Matrix (800 MHz)  The bidding matrix for the 800 MHz band is as under.<
     
     <item>
       <title>2016</title>
-      <link>https://example.com/2014/04/2016/</link>
+      <link>https://paragkar.github.io/2014/04/2016/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2016/</guid>
+      <guid>https://paragkar.github.io/2014/04/2016/</guid>
       <description>The following is the snapshot of 2016 auctions.
 Auction Prices (800 MHz) All values are in Rs Cr/MHz.
 Auction Prices (1800 MHz) All values are in Rs Cr/MHz.
@@ -118,10 +118,10 @@ Auction Prices (1800 MHz) All values are in Rs Cr/MHz.
     
     <item>
       <title>2100 MHz Map</title>
-      <link>https://example.com/2014/04/2100-mhz-map/</link>
+      <link>https://paragkar.github.io/2014/04/2100-mhz-map/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2100-mhz-map/</guid>
+      <guid>https://paragkar.github.io/2014/04/2100-mhz-map/</guid>
       <description>The figure below provides the latest map of the 2100 MHz band.
 The blocks available for auction are coloured violet. Each block is of 5 MHz width. Spectrum assigned to operators are colour coded and identified by the operator embedded in each block.
 Also, the summary of the 2100 MHz spectrum assigned is as follows.</description>
@@ -129,20 +129,20 @@ Also, the summary of the 2100 MHz spectrum assigned is as follows.</description>
     
     <item>
       <title>2300 MHz</title>
-      <link>https://example.com/2014/04/2300-mhz/</link>
+      <link>https://paragkar.github.io/2014/04/2300-mhz/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2300-mhz/</guid>
+      <guid>https://paragkar.github.io/2014/04/2300-mhz/</guid>
       <description>The Current Band Plan The current assignment is messy and will lead to interference across the circle borders. This is depicted in the movie embedded in the link above. Each slide in the frame describes a spectrum block of 2.5 MHz.
  The WPC Final Order The WPC’s Final Order will also lead to interference across borders. For details please read my note titled “2300 MHz Harmonization: The Final Order“.</description>
     </item>
     
     <item>
       <title>2300 MHz Map</title>
-      <link>https://example.com/2014/04/2300-mhz-map/</link>
+      <link>https://paragkar.github.io/2014/04/2300-mhz-map/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2300-mhz-map/</guid>
+      <guid>https://paragkar.github.io/2014/04/2300-mhz-map/</guid>
       <description>The figure below provides the latest map of the 2300 MHz band.
 Each block is of 2.5 MHz widths. The blocks assigned to the operators are colour coded as labels indicated at the bottom of the table.
 Also, the summary of the 2300 MHz spectrum assigned is as follows.</description>
@@ -150,10 +150,10 @@ Also, the summary of the 2300 MHz spectrum assigned is as follows.</description>
     
     <item>
       <title>2500 MHz Map</title>
-      <link>https://example.com/2014/04/2500-mhz-map/</link>
+      <link>https://paragkar.github.io/2014/04/2500-mhz-map/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/2500-mhz-map/</guid>
+      <guid>https://paragkar.github.io/2014/04/2500-mhz-map/</guid>
       <description>The figure below provides the latest map of the 2500 MHz band.
 Each block is of 5 MHz widths. The blocks assigned to the operators are colour coded as labels indicated at the bottom of the table. The blocks available for auctions are indicated as vacant.
 Also, the summary of the 2500 MHz spectrum assigned is as follows.</description>
@@ -161,59 +161,59 @@ Also, the summary of the 2500 MHz spectrum assigned is as follows.</description
     
     <item>
       <title>600 MHz</title>
-      <link>https://example.com/2014/04/600-mhz/</link>
+      <link>https://paragkar.github.io/2014/04/600-mhz/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/600-mhz/</guid>
+      <guid>https://paragkar.github.io/2014/04/600-mhz/</guid>
       <description>The Current Band Plan The Proposed Band Plan The proposed band plan is aligned with what got assigned in the US recently. Please read my earlier note titled “Harmonizing Sub 700 MHz Band” for more details.</description>
     </item>
     
     <item>
       <title>800 MHz Map</title>
-      <link>https://example.com/2014/04/800-mhz-map/</link>
+      <link>https://paragkar.github.io/2014/04/800-mhz-map/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/800-mhz-map/</guid>
+      <guid>https://paragkar.github.io/2014/04/800-mhz-map/</guid>
       <description>The figure below provides the latest map of the 800 MHz band.
 In this map, each row is linked to a specific service area. For example, the first row lays out the spectrum of AP (Andhra Pradesh), and the remaining others link the rest of the 21 licensed service areas (LSA). Also, note that an individual coloured block is of 1.23 MHz width, and therefore one will need 4 such blocks to complete a chunk of 5 MHz (more accurately 4.</description>
     </item>
     
     <item>
       <title>900 MHz</title>
-      <link>https://example.com/2014/04/900-mhz/</link>
+      <link>https://paragkar.github.io/2014/04/900-mhz/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/900-mhz/</guid>
+      <guid>https://paragkar.github.io/2014/04/900-mhz/</guid>
       <description> The Current Band Plan  The Proposed Band Plan (Option 1) The Proposed Band Plan (Option 2) Please read my earlier note titled “Harmonizing 900 MHz Band” for more details.
  </description>
     </item>
     
     <item>
       <title>900 MHz Map</title>
-      <link>https://example.com/2014/04/900-mhz-map/</link>
+      <link>https://paragkar.github.io/2014/04/900-mhz-map/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/900-mhz-map/</guid>
+      <guid>https://paragkar.github.io/2014/04/900-mhz-map/</guid>
       <description>The figure below provides the latest map of 900 MHz band.
 Each slice is of 200 KHz width. These slices are aggregated into larger blocks assigned to individual operators. The blocks available for auction is marked with “RED” border. The quantum available in the individual circle is mentioned in the “violet” box. You can see that only 1 circle (TN) has 5 MHz block. Rest of the spectrum is fragmented. Spectrum assigned to Bharti, Vodafone, Idea and RCOM are liberalised.</description>
     </item>
     
     <item>
       <title>Adjusted Revenue</title>
-      <link>https://example.com/2014/04/adjusted-revenue/</link>
+      <link>https://paragkar.github.io/2014/04/adjusted-revenue/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/adjusted-revenue/</guid>
+      <guid>https://paragkar.github.io/2014/04/adjusted-revenue/</guid>
       <description>The following figure is the snapshot of the Adjusted Gross Revenue of the Market Leaders. The figure embedded is the value reported by TRAI for Oct to Dec 2017.
  </description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>https://example.com/2014/04/articles/</link>
+      <link>https://paragkar.github.io/2014/04/articles/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/articles/</guid>
+      <guid>https://paragkar.github.io/2014/04/articles/</guid>
       <description>The following are the key articles published on Linkedin bucketed under various themes.
 Telecom Policy 28-05-2018 – Why do we need a new telecom policy?
 5G Spectrum &amp;amp; Regulation 13-03-2018 – Managing 5G Spectrum.
@@ -227,20 +227,20 @@ Spectrum Auctions 22-03-2018 –India Spectrum Auctions: Key Design Issues &amp;
     
     <item>
       <title>Auction Pricing</title>
-      <link>https://example.com/2014/04/auction-pricing/</link>
+      <link>https://paragkar.github.io/2014/04/auction-pricing/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/auction-pricing/</guid>
+      <guid>https://paragkar.github.io/2014/04/auction-pricing/</guid>
       <description>The following table lists the reserve and discovered prices for all auctions held till date in Rs Cr/MHz. 
 The topmost row of every block list the year in which auctions took place and the row below indicates the respective bands. “RP” is an abbreviation used for reserve prices and “AP” is used to indicate the prices discovered in the auctions. The cells marked as “NA” identifies those circles which were either not offered for auction, or no bids were received during the auctions.</description>
     </item>
     
     <item>
       <title>Auctions</title>
-      <link>https://example.com/2014/04/auctions/</link>
+      <link>https://paragkar.github.io/2014/04/auctions/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/auctions/</guid>
+      <guid>https://paragkar.github.io/2014/04/auctions/</guid>
       <description>Between 2010 and 2016, six auctions have taken place. This resulted in a total bid price over Rs 3.5 Lakhs Cr. The years during which auctions have happened are listed below.
  2010 2012 2013 2014 2015 2016  The summary of the band pricing “Actual” (emanating out of every auction) and “last” (emanating out of most current auction) is also listed for enabling easy reference.
 For a detailed analysis of all the past auctions, please refer to my note tilted “Indian Spectrum Auction: The Key Issues and Learnings”</description>
@@ -248,20 +248,20 @@ For a detailed analysis of all the past auctions, please refer to my note tilted
     
     <item>
       <title>Band Price</title>
-      <link>https://example.com/2014/04/band-price/</link>
+      <link>https://paragkar.github.io/2014/04/band-price/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/band-price/</guid>
+      <guid>https://paragkar.github.io/2014/04/band-price/</guid>
       <description>Since 2010, the spectrum in licensed bands is being assigned through a transparent process of auctions. Therefore, every auction has a reserve price and a market-determined price (emanating out of the auction process). In general, these prices in have increased over the years, and are listed in the table titled “Actual Price“.
 However, since all auctions did not include all circles. Hence, the market prices for a particular service area can be deemed as those discovered in the last auction.</description>
     </item>
     
     <item>
       <title>Bharti &amp; Tata</title>
-      <link>https://example.com/2014/04/bharti--tata/</link>
+      <link>https://paragkar.github.io/2014/04/bharti--tata/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/bharti--tata/</guid>
+      <guid>https://paragkar.github.io/2014/04/bharti--tata/</guid>
       <description>Spectrum Map The following is the spectrum map for Bharti &amp;amp; Tata alliance (all values are in MHz). The TDD spectrum has been halved to align with FDD spectrum.
 a) Total Spectrum
 b) Liberalized Spectrum
@@ -273,48 +273,48 @@ The expiring spectrum is marked in RED.</description>
     
     <item>
       <title>Comparison</title>
-      <link>https://example.com/2014/04/comparison/</link>
+      <link>https://paragkar.github.io/2014/04/comparison/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/comparison/</guid>
+      <guid>https://paragkar.github.io/2014/04/comparison/</guid>
       <description>The following tables list the price comparisons in various spectrum bands till date. It lists the price recommended by TRAI, finalised by DoT and those emanated out of the auction process.</description>
     </item>
     
     <item>
       <title>Financials</title>
-      <link>https://example.com/2014/04/financials/</link>
+      <link>https://paragkar.github.io/2014/04/financials/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/financials/</guid>
+      <guid>https://paragkar.github.io/2014/04/financials/</guid>
       <description>The industry financials are as under.
  Gross Revenue. Adjusted Gross Revenue. License Fees. Spectrum Fees. Industry Outflows.   </description>
     </item>
     
     <item>
       <title>Gross Revenue</title>
-      <link>https://example.com/2014/04/gross-revenue/</link>
+      <link>https://paragkar.github.io/2014/04/gross-revenue/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/gross-revenue/</guid>
+      <guid>https://paragkar.github.io/2014/04/gross-revenue/</guid>
       <description>The following figure is the snapshot of the Gross Revenue of the Market Leaders. The figure embedded is the value reported by TRAI for Oct to Dec 2017.</description>
     </item>
     
     <item>
       <title>Harmonization</title>
-      <link>https://example.com/2014/04/harmonization/</link>
+      <link>https://paragkar.github.io/2014/04/harmonization/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/harmonization/</guid>
+      <guid>https://paragkar.github.io/2014/04/harmonization/</guid>
       <description>Harmonization is a process to enhance the quality of spectrum bands so that they can support data at a much higher speed. In past, the 1800 MHz band was harmonized which increased the quantum of spectrum available for auction by 10 times. In future, the following are the potential bands for harmonization.
  600 MHz band 900 MHz band 2300 MHz band  </description>
     </item>
     
     <item>
       <title>Individual</title>
-      <link>https://example.com/2014/04/individual/</link>
+      <link>https://paragkar.github.io/2014/04/individual/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/individual/</guid>
+      <guid>https://paragkar.github.io/2014/04/individual/</guid>
       <description>The following is the snapshot of the spectrum inventory of the individual operators. All units are in MHz. The TDD spectrum has been halved to align with FDD spectrum.
 The interactive page can be found at the following link.
 https://public.tableau.com/profile/parag.kar#!/vizhome/2018_03_01_Spectrum__Expiring/Spectrum</description>
@@ -322,60 +322,60 @@ https://public.tableau.com/profile/parag.kar#!/vizhome/2018_03_01_Spectrum__Expi
     
     <item>
       <title>Industry Outflows</title>
-      <link>https://example.com/2014/04/industry-outflows/</link>
+      <link>https://paragkar.github.io/2014/04/industry-outflows/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/industry-outflows/</guid>
+      <guid>https://paragkar.github.io/2014/04/industry-outflows/</guid>
       <description>The following is the total industry outflows on account of the spectrum and license fees. The assumptions used are embedded in the picture.
   </description>
     </item>
     
     <item>
       <title>License Fee</title>
-      <link>https://example.com/2014/04/license-fee/</link>
+      <link>https://paragkar.github.io/2014/04/license-fee/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/license-fee/</guid>
+      <guid>https://paragkar.github.io/2014/04/license-fee/</guid>
       <description>The following figure is the snapshot of License Fee outflow of the Market Leaders. The figure embedded is the value reported by TRAI for Oct to Dec 2017.
  </description>
     </item>
     
     <item>
       <title>MNP</title>
-      <link>https://example.com/2014/04/mnp/</link>
+      <link>https://paragkar.github.io/2014/04/mnp/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/mnp/</guid>
+      <guid>https://paragkar.github.io/2014/04/mnp/</guid>
       <description>Absolute Absolute The chart below lays out the absolute number of subscribers who ported on a monthly basis for the past four years.
 MNP Rate The chart below lays out the ratio of the porting subscribers to the total subscribers for the past four years.</description>
     </item>
     
     <item>
       <title>Market Pricing</title>
-      <link>https://example.com/2014/04/market-pricing/</link>
+      <link>https://paragkar.github.io/2014/04/market-pricing/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/market-pricing/</guid>
+      <guid>https://paragkar.github.io/2014/04/market-pricing/</guid>
       <description>The table below lists the prices of various bands across circles that emanated in the last auctions in Rs Cr/MHz.
 The colour code indicates the increased intensity of prices with “Red” representing as the highest and “Green” as lowest.</description>
     </item>
     
     <item>
       <title>Net Adds</title>
-      <link>https://example.com/2014/04/net-adds/</link>
+      <link>https://paragkar.github.io/2014/04/net-adds/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/net-adds/</guid>
+      <guid>https://paragkar.github.io/2014/04/net-adds/</guid>
       <description>The following is the net adds of the subscribers of operators for the last 3 years. Units are in million.
  </description>
     </item>
     
     <item>
       <title>Operator</title>
-      <link>https://example.com/2014/04/operator/</link>
+      <link>https://paragkar.github.io/2014/04/operator/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/operator/</guid>
+      <guid>https://paragkar.github.io/2014/04/operator/</guid>
       <description>The Indian Telecom Market is converging under four operator alliances as listed under.
  Bharti &amp;amp; Tata Vodafone &amp;amp; Idea RJIO &amp;amp; RCOM  The spectrum assigned to all operators in all bands is under (All values are in MHz). TDD spectrum has been halved to align with FDD spectrum.
 a) Total Spectrum
@@ -386,40 +386,40 @@ c) Total Unliberalized Spectrum
     
     <item>
       <title>Outflows</title>
-      <link>https://example.com/2014/04/outflows/</link>
+      <link>https://paragkar.github.io/2014/04/outflows/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/outflows/</guid>
+      <guid>https://paragkar.github.io/2014/04/outflows/</guid>
       <description>The table below list the operator wise outflows in the various auctions held till date.
 While calculating deferred payment, IMG (Inter-Ministerial Group) suggestions to revise the interest rate to 8% and deferred payment period to 16 years has been factored in. In order to understand the deferred payment calculations, please refer to my note titled – Deferred Payment Calculation Formula.</description>
     </item>
     
     <item>
       <title>Overview</title>
-      <link>https://example.com/2014/04/overview/</link>
+      <link>https://paragkar.github.io/2014/04/overview/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/overview/</guid>
+      <guid>https://paragkar.github.io/2014/04/overview/</guid>
       <description>The following is the snapshot of the subscriber’s growth of all operators for the last 5 years. Units are in millions.
  </description>
     </item>
     
     <item>
       <title>Quantity</title>
-      <link>https://example.com/2014/04/quantity/</link>
+      <link>https://paragkar.github.io/2014/04/quantity/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/quantity/</guid>
+      <guid>https://paragkar.github.io/2014/04/quantity/</guid>
       <description> The quantum of spectrum offered and sold in various years and bands are as under.
   </description>
     </item>
     
     <item>
       <title>RJIO &amp; RCOM</title>
-      <link>https://example.com/2014/04/rjio--rcom/</link>
+      <link>https://paragkar.github.io/2014/04/rjio--rcom/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/rjio--rcom/</guid>
+      <guid>https://paragkar.github.io/2014/04/rjio--rcom/</guid>
       <description>Spectrum Map The following is the spectrum map for RJIO &amp;amp; RCOM alliance (all values are in MHz). The TDD spectrum has been halved to align with FDD spectrum.
 a) Total Spectrum
 b) Liberalized Spectrum
@@ -431,20 +431,20 @@ The expiring spectrum is marked in RED.</description>
     
     <item>
       <title>Spectrum Bands</title>
-      <link>https://example.com/2014/04/spectrum-bands/</link>
+      <link>https://paragkar.github.io/2014/04/spectrum-bands/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/spectrum-bands/</guid>
+      <guid>https://paragkar.github.io/2014/04/spectrum-bands/</guid>
       <description>In India spectrum has been assigned to operators in 6 bands for exclusive use (licensed) as listed under.
  800 MHz band: 824 to 844 MHz paired with 869 to 889 MHz. 900 MHz band: 890 to 915 MHz paired with 935 to 960 MHz. 1800 MHz band: 1710 to 1785 MHz paired with 1805 to 1880 MHz. 2100 MHz band: 1920 to 1980 MHz paired with 2110 to 2170 MHz.</description>
     </item>
     
     <item>
       <title>Spectrum Expiry</title>
-      <link>https://example.com/2014/04/spectrum-expiry/</link>
+      <link>https://paragkar.github.io/2014/04/spectrum-expiry/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/spectrum-expiry/</guid>
+      <guid>https://paragkar.github.io/2014/04/spectrum-expiry/</guid>
       <description>Liberalized Spectrum Individual Operators
 The following is the snapshot of expiry of the liberalised spectrum for the individual operators. The spectrum acquired in various years have been weighted averaged to generate a consolidated Pan-India summary.
 Operator Alliance
@@ -454,20 +454,20 @@ Un-Liberalized Spectrum Individual Operators</description>
     
     <item>
       <title>Spectrum Fee</title>
-      <link>https://example.com/2014/04/spectrum-fee/</link>
+      <link>https://paragkar.github.io/2014/04/spectrum-fee/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/spectrum-fee/</guid>
+      <guid>https://paragkar.github.io/2014/04/spectrum-fee/</guid>
       <description>The following figure is the snapshot of Spectrum Fee outflow of the Market Leaders. The figure embedded is the value reported by TRAI for Oct to Dec 2017.
  </description>
     </item>
     
     <item>
       <title>Spectrum Summary</title>
-      <link>https://example.com/2014/04/spectrum-summary/</link>
+      <link>https://paragkar.github.io/2014/04/spectrum-summary/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/spectrum-summary/</guid>
+      <guid>https://paragkar.github.io/2014/04/spectrum-summary/</guid>
       <description>Liberalized Spectrum Individual Operators
 The following is the snapshot of the summary of the liberalized spectrum for the individual operators. The spectrum acquired in various years have been weighted averaged (using circle revenue weights) to generate a consolidated Pan-India summary. Values are in MHz (TDD spectrum has been halved to align with FDD spectrum. Also, MTS’s spectrum in 800 MHz has been aggregated into RCOM’s.
 Operator Alliance
@@ -476,20 +476,20 @@ The following is the snapshot of the summary of the liberalized spectrum for the
     
     <item>
       <title>Subscribers</title>
-      <link>https://example.com/2014/04/subscribers/</link>
+      <link>https://paragkar.github.io/2014/04/subscribers/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/subscribers/</guid>
+      <guid>https://paragkar.github.io/2014/04/subscribers/</guid>
       <description>The section provides a summary of the overall subscriber’s data of the Indian telecom market under the following heads.
  Overview Net Adds MNP  </description>
     </item>
     
     <item>
       <title>Voda &amp; Idea</title>
-      <link>https://example.com/2014/04/voda--idea/</link>
+      <link>https://paragkar.github.io/2014/04/voda--idea/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/voda--idea/</guid>
+      <guid>https://paragkar.github.io/2014/04/voda--idea/</guid>
       <description>Spectrum Map The following is the spectrum map for Voda &amp;amp; Idea alliance (all values are in MHz). The TDD spectrum has been halved to align with FDD spectrum.
 a) Total Spectrum
 b) Liberalized Spectrum
@@ -501,10 +501,10 @@ The expiring spectrum is marked in RED.</description>
     
     <item>
       <title>What’s New</title>
-      <link>https://example.com/2014/04/whats-new/</link>
+      <link>https://paragkar.github.io/2014/04/whats-new/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/04/whats-new/</guid>
+      <guid>https://paragkar.github.io/2014/04/whats-new/</guid>
       <description>06-06-2018 –Updated the 2300 MHz Page. 06-06-2018 – 2300 MHz Harmonization: The Final Order 02-06-2018 – Why Dismantling “Revenue Share” is the mother of all reforms? 31-05-2018 – V Band (60 GHz) Regulation: Are there Legal Issues? 30-05-2018 – Wireless Connectivity: How is the Rural India Doing? 28-05-2018 – VNO, WiFi &amp;amp; M2M Licenses : Opportunities &amp;amp; Constraints 28-05-2018 –Why do we need a new telecom policy? 03-05-2018 – 60 GHz (V Band): Why Should it be Delicensed?</description>
     </item>
     
